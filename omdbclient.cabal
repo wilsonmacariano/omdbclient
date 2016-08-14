@@ -22,3 +22,5 @@ executable omdbclient
                      , aeson
                      , lens-aeson
                      , containers
+                     , bytestring
+                     , text
